@@ -44,12 +44,13 @@ footer {
 
 .night {
     background-image: url(../assets/bg-night.png);
+    background-position: center;
 
 }
 
 .day {
     background-image: url(../assets/bg-day.png);
-
+    background-position: center;
 }
 
 .switch {
